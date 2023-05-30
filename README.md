@@ -18,7 +18,7 @@ this method is based on the work of [Aslan, Akin](http://193.140.240.104/xmlui/h
 This architecture consists of CNN followed by LSTM cells. inputs of the CNNs are spectrogram segments for one subject, which are fed to LSTM sequentially<br>
 This method underperfomrs compared to the previous plain CNN method due to the lack of sufficient training data.<br>
 <br>
-#### CONCLUSIVE DISCUSSION
+#### Conclusive Discussion
 The evaluation metrics provided of the performance of the above models: VGG16-CNN gave the highest accuracy of 94.44%, while Basic CNN model gave an accuracy of 90.28% and the least was of the LSTM model of as low as 75.0%.
 VGG is a complex network architecture with more layers, hence allows it to capture more complex patterns in the EEG signals. The basic CNN was also able to capture some of these patterns, but may not be as effective as VGG due to its simpler architecture. The LSTM, is primarily designed for sequential data and may not be as well-suited to this particular dataset. Moreover, the relatively low accuracy of the LSTM model indicates that spectral information may not be as informative as temporal information in detecting schizophrenia leading to a lower accuracy.
 
