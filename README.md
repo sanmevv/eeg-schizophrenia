@@ -1,4 +1,4 @@
-#### A DL-Based Approach for Diagnosis of Schizophrenia using EEG recording of the brain
+# A DL-Based Approach for Diagnosis of Schizophrenia using EEG recording of the brain
 ### Datasets used
 A public dataset of SZ EEG recordings was utilized for this project <br> [Dataset](http://brain.bio.msu.ru/eeg_schizophrenia.htm), a 16 channel EEG recording dataset of 84 individuals (45 Schizophernic, 39 Healthy Control) <br> Dataset was divided into 5 second segments of 224x224 spectrogram images of EEG signal.
 
