@@ -20,7 +20,7 @@ VGG is a complex network architecture with more layers, hence allows it to captu
 ## Conclusion and Future Scope
 ● The results obtained by the implementation of the above basic CNN, VGG16 are quite promising and suggest that these models have the potential to be powerful tools in detecting schizophrenia from EEG data.
 
-● The high accuracy of the VGG16 and CNN models demonstrates the effectiveness of using convolutional neural networks for feature extraction from EEG signals. It also suggests that the models have effectively captured the discriminative patterns present in the EEG data that are characteristic of schizophrenia.
+● The high accuracy of the VGG16 and CNN models demonstrates the effectiveness of using convolutional neural networks for feature extraction from EEG signals. It also suggests that the models have effectively captured the discriminative patterns present in the EEG data that are characteristics of schizophrenia.
 
 ● While the LSTM model's performance shows the importance of considering the temporal dynamics of the signals; additionally, the relatively low accuracy of the LSTM model indicates that spectral information may not be as informative as temporal information in detecting schizophrenia.
 
