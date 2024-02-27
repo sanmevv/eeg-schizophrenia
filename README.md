@@ -1,4 +1,5 @@
 #### Spectral and graph-based deep learning models for schizophrenia detection(EEG data)
+* Published research paper on IEEE Xplore; explore the content at : https://ieeexplore.ieee.org/document/10434266
 ##### Problem statement:
 * Accurately detecting and classifying schizophrenia in adolescents using EEG data.
 
